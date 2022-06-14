@@ -34,7 +34,9 @@ Seguirem la guia oficial de Vue.js durant la major part d'aquest laboratori.
 - En finalitzar, executeu les ordres següents:
 
   ```bash
-   git add .git commit -m "done"git push origin main # or master if you are working from a master
+  $ git add .
+  $ git commit -m "done"
+  $ git push origin main # or master if you are working from a master
   ```
 
 - Creeu una sol·licitud d'extracció perquè els vostres TA puguin comprovar el vostre treball.
